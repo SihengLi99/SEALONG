@@ -1,0 +1,13 @@
+gpustat==1.1.1
+gdown==5.2.0
+deepspeed==0.15.3
+accelerate==0.34.2
+transformers==4.45.2
+vllm==0.6.2
+openai==1.51.2
+wandb==0.18.3
+trl==0.11.4
+peft==0.13.2
+datasets==3.0.1
+langchain_text_splitters==0.3.0
+faiss-gpu==1.7.2
