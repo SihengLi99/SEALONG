@@ -4,15 +4,15 @@
 
 <h5 align="center"> 🌸 "Just when the caterpillar thought the world was over, it became a butterfly." 🦋 </h2>
 
-<h3 align="center"><a href="https://arxiv.org/abs/2409.18786">
+<h3 align="center"><a href="https://arxiv.org/pdf/2411.08147">
 Large Language Models Can Self-Improve in Long-context Reasoning</a></h3>
 <!-- <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2> -->
 
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2409.18786-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2409.18786)
+[![arXiv](https://img.shields.io/badge/Arxiv-2411.08147-AD1C18.svg?logo=arXiv)](https://arxiv.org/pdf/2411.08147)
 [![hf_paper](https://img.shields.io/badge/%F0%9F%A4%97-Paper-FF6F61
-)](https://huggingface.co/papers/2409.18786)
+)](https://huggingface.co/papers/2411.08147)
 [![hf_model_data](https://img.shields.io/badge/%F0%9F%A4%97-Models&Datasets-48A9DC
 )](https://huggingface.co/collections/Siheng99/sealong-67313e3b4edd034cb4a76cc5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -133,11 +133,15 @@ In our experiments, we select QLoRA for memory efficiency, but we also test full
 
 If SEALONG is useful for your research or applications, please cite it with the following BibTeX:
 ```bibtex
-@article{li2024survey,
-      title={A Survey on the Honesty of Large Language Models},
-      author={Siheng Li and Cheng Yang and Taiqiang Wu and Chufan Shi and Yuji Zhang and Xinyu Zhu and Zesen Cheng and Deng Cai and Mo Yu and Lemao Liu and Jie Zhou and Yujiu Yang and Ngai Wong and Xixin Wu and Wai Lam},
+@misc{li2024largelanguagemodelsselfimprove,
+      title={Large Language Models Can Self-Improve in Long-context Reasoning}, 
+      author={Siheng Li and Cheng Yang and Zesen Cheng and Lemao Liu and Mo Yu and Yujiu Yang and Wai Lam},
       year={2024},
-      journal={arXiv preprint arXiv:2409.18786}
+      eprint={2411.08147},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.08147}, 
+}
 }
 ```
 
