@@ -42,7 +42,7 @@ Then, output a line indicating the score of the Assistant.
 
 PLEASE OUTPUT WITH THE FOLLOWING FORMAT, WHERE THE SCORE IS A SCALE OF 1 TO 100 BY STRICTLY FOLLOWING THIS FORMAT: "[[score]]", FOR EXAMPLE "Rating: [[100]]":
 <start output>
-Evaluation evidence: your evluation explanation here, no more than 100 words
+Evaluation evidence: your evaluation explanation here, no more than 100 words
 Rating: [[score]]
 <end output>
 
