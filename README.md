@@ -133,15 +133,11 @@ In our experiments, we select QLoRA for memory efficiency, but we also test full
 
 If SEALONG is useful for your research or applications, please cite it with the following BibTeX:
 ```bibtex
-@misc{li2024largelanguagemodelsselfimprove,
-      title={Large Language Models Can Self-Improve in Long-context Reasoning}, 
-      author={Siheng Li and Cheng Yang and Zesen Cheng and Lemao Liu and Mo Yu and Yujiu Yang and Wai Lam},
-      year={2024},
-      eprint={2411.08147},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.08147}, 
-}
+@article{li2024large,
+  title={Large Language Models Can Self-Improve in Long-context Reasoning},
+  author={Li, Siheng and Yang, Cheng and Cheng, Zesen and Liu, Lemao and Yu, Mo and Yang, Yujiu and Lam, Wai},
+  journal={arXiv preprint arXiv:2411.08147},
+  year={2024}
 }
 ```
 
